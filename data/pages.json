@@ -1,0 +1,32 @@
+{
+  "home": {
+    "title": "🏠 Home",
+    "subtitle": "Welcome to HoHoHoCoin",
+    "content": "<h1>Welcome to HoHoHoCoin</h1><p>The most festive cryptocurrency on the blockchain.</p><p>Join us on this amazing journey to revolutionize digital currency with a touch of holiday spirit!</p>"
+  },
+  "about": {
+    "title": "📖 About",
+    "subtitle": "Learn Our Story",
+    "content": "<h1>About HoHoHoCoin</h1><p>HoHoHoCoin is a community-driven cryptocurrency project born from the spirit of celebration and innovation.</p><p>Our mission is to create a fun, secure, and accessible digital currency for everyone.</p>"
+  },
+  "tokenomics": {
+    "title": "💹 Tokenomics",
+    "subtitle": "Token Structure and Distribution",
+    "content": "<h1>Tokenomics</h1><h2>Token Distribution</h2><p>Total Supply: 1,000,000,000 HHO</p><ul><li>Community: 40%</li><li>Team: 20%</li><li>Development: 20%</li><li>Marketing: 10%</li><li>Reserve: 10%</li></ul>"
+  },
+  "roadmap": {
+    "title": "🗺️ Roadmap",
+    "subtitle": "Our Path to the Future",
+    "content": "<h1>Development Roadmap</h1><h2>Q1 2025</h2><p>Launch main network and exchange listings</p><h2>Q2 2025</h2><p>Community governance implementation</p><h2>Q3 2025</h2><p>Mobile app release</p>"
+  },
+  "questions": {
+    "title": "❓ Questions",
+    "subtitle": "Frequently Asked Questions",
+    "content": "<h1>Frequently Asked Questions</h1><h2>What is HoHoHoCoin?</h2><p>HoHoHoCoin is a community cryptocurrency with a festive spirit.</p><h2>How to Buy?</h2><p>You can buy HoHoHoCoin on various exchanges. Check our website for details.</p>"
+  },
+  "thebigevent": {
+    "title": "🎄 THE BIG EVENT 🎄",
+    "subtitle": "The biggest event of the year!",
+    "content": "<h1>🎄 THE BIG EVENT 🎄</h1><p style=\"color: var(--secondary); font-size: 1.3rem; font-weight: bold;\">This is our most important event!</p><p>Join us to celebrate the official launch of HoHoHoCoin with surprises, prizes and lots of fun.</p><h2>Event Details</h2><p>Date: Coming Soon</p><p>Location: Online</p><p>Don't miss it!</p>"
+  }
+}

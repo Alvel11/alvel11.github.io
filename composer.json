@@ -1,0 +1,17 @@
+{
+    "name": "hohohocoin/hohohocoin",
+    "description": "HoHoHoCoin - The Festive Future of Cryptocurrency",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "HoHoHoCoin Team",
+            "email": "info@hohohocoin.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    },
+    "keywords": ["cryptocurrency", "hohohocoin", "crypto", "blockchain"],
+    "minimum-stability": "stable"
+}
